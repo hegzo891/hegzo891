@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ahmedhegazy/ahmedhegazy/master/name.svg" alt="Ahmed Hegazy" />
+  <img src="![Ahmed Hegazy](https://github.com/hegzo891/hegzo891/assets/121024792/37091894-1dcd-4255-bec5-5ca64162d654)
+" alt="Ahmed Hegazy" />
 </h1>
 
 ## Hey! 👋
