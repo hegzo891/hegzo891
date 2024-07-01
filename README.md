@@ -21,4 +21,3 @@ I'm Ahmed, a 19 years old student.
 
 ## Contact
 - [@ahmedhegazy](www.linkedin.com/in/ahmed-hegazy-a731b0269) on linkedin
-- [@martonlederer](https://discord.com/channels/1199655097697833010/1199655097697833013/1207351082406125638) on Discord
