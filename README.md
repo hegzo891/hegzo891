@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Ahmed+Hegazy!;Software+Engineer+%26+Student;Full+Stack+Web+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Ahmed+Hegazy!;Software+Engineer+%26+Student;" />
 </h3>
 
 <p align="center">
@@ -18,10 +18,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"> </picture>
 
-> I'm a passionate 19-year-old software developer currently pursuing a B.Sc. in Computer Science and Artificial Intelligence at Cairo University. I build full-stack apps using modern frameworks like React, Django, and Spring Boot, with strong fundamentals in algorithms, OOP, and system design.
+> I'm a driven 20-year-old software developer pursuing a B.Sc. in Computer Science and Artificial Intelligence at Cairo University. I have a strong foundation in algorithms, object-oriented programming, and system design, and I'm passionate about developing clean, scalable, and impactful software solutions.
 
 - 🎓 3rd Year CS Student at **Cairo University**
-- 💼 Account Manager @ **Amazon Business**
 - 🔧 Focus: **Cloud Computing**, **DevOps**, and **Data Science**
 - 💻 Stack: React, Flutter, Django, Spring Boot
 - 📊 Passionate about building **scalable systems**, **real-time apps**, and **search engines**
