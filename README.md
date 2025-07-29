@@ -81,9 +81,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hegzo891&theme=radical&hide_border=true" alt="Ahmed's GitHub streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hegzo891&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hegzo891&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -91,8 +89,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 
