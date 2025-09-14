@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"> </picture>
+<picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"> </picture>
 
 > Passionate software developer with expertise in building scalable applications and innovative solutions. Currently pursuing a B.Sc. in Computer Science and Artificial Intelligence at Cairo University with a focus on cloud technologies and system architecture.
 
@@ -104,8 +104,11 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hegzo891&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
-
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=hegzo891&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
+  
+</div>
 ---
 
 ## 🤝 Connect With Me
