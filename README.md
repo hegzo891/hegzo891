@@ -15,7 +15,7 @@
   </a>
 </p>
 
----
+
 
 ## 🚀 About Me
 
@@ -31,7 +31,7 @@
 - 📫 How to reach me: **ahmedhegaz371@gmail.com**
 - 📄 Know about my experiences: [Portfolio](https://github.com/hegzo891)
 
----
+
 
 ## 🛠️ Technical Skills
 
@@ -58,7 +58,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+
 
 ## 📂 Featured Projects
 
@@ -82,7 +82,7 @@
 - Implemented Role-Based Access Control (RBAC) with Spring Security
 - Designed scalable architecture supporting multiple user roles and permissions
 
----
+
 
 ## 📈 GitHub Analytics
 
@@ -100,7 +100,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hegzo891&bg_color=141321&color=A9FEF7&line=FF61A6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
 </div>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -109,7 +109,7 @@
   ![](https://github-profile-trophy.vercel.app/?username=hegzo891&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
   
 </div>
----
+
 
 ## 🤝 Connect With Me
 
@@ -128,7 +128,7 @@
   </a>
 </p>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
