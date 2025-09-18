@@ -82,26 +82,6 @@
 - Implemented Role-Based Access Control (RBAC) with Spring Security
 - Designed scalable architecture supporting multiple user roles and permissions
 
-
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-  ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=hegzo891&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hegzo891&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hegzo891&layout=compact&theme=radical&hide_border=true&langs_count=8)
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hegzo891&bg_color=141321&color=A9FEF7&line=FF61A6&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="90%"/>
-</div>
-
-
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
