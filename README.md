@@ -23,10 +23,10 @@
 
 > Passionate software developer with expertise in building scalable applications and innovative solutions. Currently pursuing a B.Sc. in Computer Science and Artificial Intelligence at Cairo University with a focus on cloud technologies and system architecture.
 
-- 🎓 3rd Year CS Student at **Cairo University** (Faculty of Computers and Artificial Intelligence)
-- 🌱 Currently learning: **Advanced Cloud Architecture** and **Distributed Systems**
-- 🔧 Focus Areas: **Cloud Computing**, **DevOps**, **Data Engineering**, and **Full-Stack Development**
-- 💻 Tech Stack: React, Flutter, Django, Spring Boot, AWS, Docker
+- 🎓 4th Year CS Student at **Cairo University** (Faculty of Computers and Artificial Intelligence)
+- 🌱 Currently learning: **Data Engineering**
+- 🔧 Focus Areas: **Cloud Computing**, **Data Engineering**, and **Full-Stack Development**
+- 💻 Tech Stack: React, Flutter, Django, Spring Boot, AWS
 - 📊 Passionate about building **scalable systems**, **real-time applications**, and **intelligent search engines**
 - 📫 How to reach me: **ahmedhegaz371@gmail.com**
 - 📄 Know about my experiences: [Portfolio](https://github.com/hegzo891)
