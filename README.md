@@ -67,15 +67,6 @@
 - Implemented Role-Based Access Control (RBAC) with Spring Security
 - Designed scalable architecture supporting multiple user roles and permissions
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=hegzo891&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3)
-  
-</div>
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
