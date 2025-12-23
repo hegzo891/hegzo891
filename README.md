@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ahmed%20Hegazy&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=white" />
-</div>
-
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Ahmed+Hegazy!;Software+Engineer+%26+Student;" />
 </h3>
