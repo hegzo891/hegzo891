@@ -2,17 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&center=true&vCenter=true&width=600&height=70&lines=Hi+There!+👋;I'm+Ahmed+Hegazy!;Software+Engineer+%26+Student;" />
 </h3>
 
-<p align="center">
-  <a href="https://github.com/hegzo891">
-    <img src="https://komarev.com/ghpvc/?username=hegzo891&label=Profile%20views&color=0e75b6&style=flat" alt="hegzo891" />
-  </a>
-  <a href="https://github.com/hegzo891?tab=followers">
-    <img src="https://img.shields.io/github/followers/hegzo891?label=Followers&style=social" alt="GitHub followers" />
-  </a>
-</p>
-
-
-
 ## 🚀 About Me
 
 <picture> <img align="center" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"> </picture>
