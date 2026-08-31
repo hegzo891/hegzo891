@@ -155,9 +155,7 @@ I build **production-grade backend systems**, **data pipelines**, and **AI-power
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedHegazy-Dev&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="48%" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedHegazy-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages" />
-</p>
+
 
 ---
 
