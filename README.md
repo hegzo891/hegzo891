@@ -10,10 +10,6 @@
   <a href="https://github.com/AhmedHegazy-Dev"><img src="https://img.shields.io/badge/GitHub-AhmedHegazy--Dev-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedHegazy-Dev&style=flat-square&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🧑‍💻 About
