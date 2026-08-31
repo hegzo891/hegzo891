@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Ahmed+Hegazy" alt="Ahmed Hegazy" />
 </h1>
 
-<h3 align="center">Software Engineer · Data Engineer · Backend Architect</h3>
+<h3 align="center">Aspiring Data Engineer . Software Engineer . FCAI Cairo University Graduate</h3>
 
 <p align="center">
   <a href="mailto:ahmedhegaz371@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedhegaz371-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
