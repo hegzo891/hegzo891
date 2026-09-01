@@ -75,35 +75,70 @@ I build **production-grade backend systems**, **data pipelines**, and **AI-power
 ### 🏗️ Featured Projects
 
 <table>
+  <!-- Row 1: Backend & Data Engineering -->
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>🔧 Ay Khedma — On-Demand Home Services Platform</h4>
-      <p><strong>Java 21 · Spring Boot · PostgreSQL · Redis · Python · FastAPI</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      </p>
       <ul>
-        <li>Microservices backend: <strong>60+ endpoints</strong>, 9 domain modules, 21 JPA repos</li>
-        <li>PostGIS geo-spatial queries + Redis caching + 21 Flyway migrations</li>
-        <li>Real-time chat (WebSocket/STOMP) with 10+ notification types via FCM</li>
-        <li>Google Gemini AI integration via custom MCP tool registry (4 AI tools)</li>
-        <li>CV microservice: YOLOv8 + DeepFace | JWT + RBAC + OTP auth</li>
-        <li><strong>90%+ test coverage</strong> — JUnit 5, Mockito, Testcontainers</li>
+        <li><strong>Microservices Backend:</strong> 60+ REST endpoints across 9 domain modules with 21 JPA repos.</li>
+        <li><strong>Data & Geospatial:</strong> PostGIS spatial queries, Redis caching, and 21 Flyway migrations.</li>
+        <li><strong>AI & Real-Time:</strong> Gemini AI via custom MCP registry, YOLOv8 CV service, and WebSocket/STOMP chat with FCM.</li>
+        <li><strong>Test Coverage:</strong> <strong>90%+ coverage</strong> with JUnit 5, Mockito, and Testcontainers.</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h4>📊 Data Warehouse & BI Dashboard</h4>
-      <p><strong>SQL · Star Schema · ETL · Power BI · Dimensional Modeling</strong></p>
+      <p>
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Star_Schema-FF6F00?style=flat-square" alt="Star Schema" />
+        <img src="https://img.shields.io/badge/ETL_Pipelines-00599C?style=flat-square" alt="ETL" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      </p>
       <ul>
-        <li>End-to-end data warehouse with ETL pipelines (staging → cleaning → validation)</li>
-        <li>Star schema design: <strong>70% query performance improvement</strong> vs. OLTP</li>
-        <li>Interactive Power BI dashboards for sales trends, product performance & KPIs</li>
-        <li>Increased stakeholder insight visibility by <strong>60%</strong></li>
+        <li><strong>End-to-End DW Pipeline:</strong> Multi-stage ETL (staging &rarr; cleaning &rarr; validation) transforming OLTP data for analytics.</li>
+        <li><strong>Dimensional Modeling:</strong> Star schema yielding <strong>70% query performance improvement</strong> over normalized OLTP models.</li>
+        <li><strong>Executive Dashboards:</strong> Interactive Power BI reports boosting stakeholder insight visibility by <strong>60%</strong>.</li>
       </ul>
-      <br/>
-      <h4>💊 E-Commerce Pharmacy Platform</h4>
-      <p><strong>React · Node.js · REST APIs · JavaScript</strong></p>
+    </td>
+  </tr>
+
+  <!-- Row 2: Live Web Apps & Frontend -->
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⏱️ TimeLock — Deep Work & Focus Platform</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+        <a href="https://time-lock-beta.vercel.app" target="_blank" rel="noopener noreferrer">
+          <img src="https://img.shields.io/badge/Demo-Live_App_↗-success?style=flat-square" alt="Live Demo" />
+        </a>
+      </p>
       <ul>
-        <li>Responsive SPA: catalog, cart, checkout flow</li>
-        <li><strong>40%</strong> search performance boost via debounced search & dynamic filtering</li>
-        <li><strong>20%</strong> reduction in cart abandonment through UX optimizations</li>
+        <li><strong>Session Locking Engine:</strong> Strict work-session lock mechanism engineered to prevent distraction and maximize focus.</li>
+        <li><strong>Analytics & Tracking:</strong> Real-time interval timers, customizable focus blocks, and client-side session metrics.</li>
+        <li><strong>Production SPA:</strong> Distraction-free, responsive UI built with TypeScript and deployed on Vercel.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💊 E-Commerce Pharmacy Platform</h4>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+      </p>
+      <ul>
+        <li><strong>Full-Featured SPA:</strong> Product catalog, interactive cart, and seamless multi-step checkout flow.</li>
+        <li><strong>Search Optimization:</strong> <strong>40% faster search</strong> via debounced queries and dynamic filtering.</li>
+        <li><strong>Conversion Boost:</strong> Achieved <strong>20% reduction in cart abandonment</strong> via targeted UX enhancements.</li>
       </ul>
     </td>
   </tr>
