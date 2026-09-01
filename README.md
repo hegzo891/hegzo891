@@ -20,18 +20,6 @@ I build **production-grade backend systems**, **data pipelines**, and **AI-power
 
 ---
 
-### ⚡ Impact Highlights
-
-| Metric | Detail |
-|--------|--------|
-| **60+ REST endpoints** | Architected across 9 domain modules with 18 controllers and 32+ services |
-| **90%+ test coverage** | 35+ test classes — JUnit 5, Mockito, Testcontainers |
-| **70% query speedup** | Star schema dimensional modeling vs. normalized OLTP |
-| **40% render improvement** | React optimization via memoization and data flow refactoring |
-| **2 production apps** | Delivered end-to-end in 7-month tenure |
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
